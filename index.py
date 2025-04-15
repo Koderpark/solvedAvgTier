@@ -33,6 +33,8 @@ def get_avg_tier(tag):
         sum_tier += i['level'] * i['acceptedUserCount']
         sum_solved += i['acceptedUserCount']
 
+    if sum_solved == 0:
+        return 0
     return sum_tier // sum_solved 
 
 A = get_all_tags()
