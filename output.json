@@ -1,0 +1,826 @@
+[
+    {
+        "id": "math",
+        "tier": 2
+    },
+    {
+        "id": "implementation",
+        "tier": 1
+    },
+    {
+        "id": "dp",
+        "tier": 8
+    },
+    {
+        "id": "data_structures",
+        "tier": 8
+    },
+    {
+        "id": "graphs",
+        "tier": 10
+    },
+    {
+        "id": "greedy",
+        "tier": 7
+    },
+    {
+        "id": "string",
+        "tier": 4
+    },
+    {
+        "id": "bruteforcing",
+        "tier": 7
+    },
+    {
+        "id": "graph_traversal",
+        "tier": 10
+    },
+    {
+        "id": "sorting",
+        "tier": 6
+    },
+    {
+        "id": "ad_hoc",
+        "tier": 7
+    },
+    {
+        "id": "geometry",
+        "tier": 3
+    },
+    {
+        "id": "trees",
+        "tier": 11
+    },
+    {
+        "id": "number_theory",
+        "tier": 6
+    },
+    {
+        "id": "segtree",
+        "tier": 16
+    },
+    {
+        "id": "binary_search",
+        "tier": 9
+    },
+    {
+        "id": "constructive",
+        "tier": 9
+    },
+    {
+        "id": "arithmetic",
+        "tier": 1
+    },
+    {
+        "id": "simulation",
+        "tier": 8
+    },
+    {
+        "id": "prefix_sum",
+        "tier": 9
+    },
+    {
+        "id": "bfs",
+        "tier": 10
+    },
+    {
+        "id": "combinatorics",
+        "tier": 8
+    },
+    {
+        "id": "case_work",
+        "tier": 5
+    },
+    {
+        "id": "dfs",
+        "tier": 10
+    },
+    {
+        "id": "shortest_path",
+        "tier": 11
+    },
+    {
+        "id": "bitmask",
+        "tier": 10
+    },
+    {
+        "id": "hash_set",
+        "tier": 7
+    },
+    {
+        "id": "dijkstra",
+        "tier": 12
+    },
+    {
+        "id": "backtracking",
+        "tier": 9
+    },
+    {
+        "id": "sweeping",
+        "tier": 13
+    },
+    {
+        "id": "disjoint_set",
+        "tier": 13
+    },
+    {
+        "id": "tree_set",
+        "tier": 8
+    },
+    {
+        "id": "parsing",
+        "tier": 7
+    },
+    {
+        "id": "dp_tree",
+        "tier": 13
+    },
+    {
+        "id": "priority_queue",
+        "tier": 11
+    },
+    {
+        "id": "divide_and_conquer",
+        "tier": 11
+    },
+    {
+        "id": "two_pointer",
+        "tier": 9
+    },
+    {
+        "id": "parametric_search",
+        "tier": 10
+    },
+    {
+        "id": "game_theory",
+        "tier": 9
+    },
+    {
+        "id": "stack",
+        "tier": 8
+    },
+    {
+        "id": "probability",
+        "tier": 10
+    },
+    {
+        "id": "primality_test",
+        "tier": 7
+    },
+    {
+        "id": "flow",
+        "tier": 17
+    },
+    {
+        "id": "lazyprop",
+        "tier": 18
+    },
+    {
+        "id": "dp_bitfield",
+        "tier": 15
+    },
+    {
+        "id": "exponentiation_by_squaring",
+        "tier": 12
+    },
+    {
+        "id": "offline_queries",
+        "tier": 18
+    },
+    {
+        "id": "knapsack",
+        "tier": 11
+    },
+    {
+        "id": "arbitrary_precision",
+        "tier": 3
+    },
+    {
+        "id": "recursion",
+        "tier": 9
+    },
+    {
+        "id": "coordinate_compression",
+        "tier": 11
+    },
+    {
+        "id": "dag",
+        "tier": 13
+    },
+    {
+        "id": "mst",
+        "tier": 13
+    },
+    {
+        "id": "euclidean",
+        "tier": 6
+    },
+    {
+        "id": "precomputation",
+        "tier": 9
+    },
+    {
+        "id": "sieve",
+        "tier": 9
+    },
+    {
+        "id": "convex_hull",
+        "tier": 17
+    },
+    {
+        "id": "topological_sorting",
+        "tier": 13
+    },
+    {
+        "id": "bipartite_matching",
+        "tier": 17
+    },
+    {
+        "id": "linear_algebra",
+        "tier": 10
+    },
+    {
+        "id": "lca",
+        "tier": 15
+    },
+    {
+        "id": "inclusion_and_exclusion",
+        "tier": 15
+    },
+    {
+        "id": "hashing",
+        "tier": 7
+    },
+    {
+        "id": "floyd_warshall",
+        "tier": 11
+    },
+    {
+        "id": "scc",
+        "tier": 17
+    },
+    {
+        "id": "sparse_table",
+        "tier": 16
+    },
+    {
+        "id": "randomization",
+        "tier": 13
+    },
+    {
+        "id": "trie",
+        "tier": 14
+    },
+    {
+        "id": "smaller_to_larger",
+        "tier": 20
+    },
+    {
+        "id": "fft",
+        "tier": 20
+    },
+    {
+        "id": "line_intersection",
+        "tier": 15
+    },
+    {
+        "id": "modular_multiplicative_inverse",
+        "tier": 14
+    },
+    {
+        "id": "deque",
+        "tier": 9
+    },
+    {
+        "id": "calculus",
+        "tier": 10
+    },
+    {
+        "id": "sqrt_decomposition",
+        "tier": 21
+    },
+    {
+        "id": "geometry_3d",
+        "tier": 9
+    },
+    {
+        "id": "mcmf",
+        "tier": 18
+    },
+    {
+        "id": "ternary_search",
+        "tier": 13
+    },
+    {
+        "id": "suffix_array",
+        "tier": 18
+    },
+    {
+        "id": "sliding_window",
+        "tier": 9
+    },
+    {
+        "id": "cht",
+        "tier": 21
+    },
+    {
+        "id": "heuristics",
+        "tier": 15
+    },
+    {
+        "id": "sprague_grundy",
+        "tier": 18
+    },
+    {
+        "id": "centroid",
+        "tier": 22
+    },
+    {
+        "id": "euler_tour_technique",
+        "tier": 18
+    },
+    {
+        "id": "mitm",
+        "tier": 14
+    },
+    {
+        "id": "bitset",
+        "tier": 17
+    },
+    {
+        "id": "permutation_cycle_decomposition",
+        "tier": 10
+    },
+    {
+        "id": "kmp",
+        "tier": 16
+    },
+    {
+        "id": "pythagoras",
+        "tier": 3
+    },
+    {
+        "id": "lis",
+        "tier": 14
+    },
+    {
+        "id": "hld",
+        "tier": 20
+    },
+    {
+        "id": "gaussian_elimination",
+        "tier": 17
+    },
+    {
+        "id": "polygon_area",
+        "tier": 12
+    },
+    {
+        "id": "centroid_decomposition",
+        "tier": 22
+    },
+    {
+        "id": "linearity_of_expectation",
+        "tier": 14
+    },
+    {
+        "id": "mfmc",
+        "tier": 20
+    },
+    {
+        "id": "bipartite_graph",
+        "tier": 12
+    },
+    {
+        "id": "queue",
+        "tier": 7
+    },
+    {
+        "id": "flt",
+        "tier": 14
+    },
+    {
+        "id": "physics",
+        "tier": 9
+    },
+    {
+        "id": "eulerian_path",
+        "tier": 16
+    },
+    {
+        "id": "2_sat",
+        "tier": 18
+    },
+    {
+        "id": "tsp",
+        "tier": 11
+    },
+    {
+        "id": "0_1_bfs",
+        "tier": 11
+    },
+    {
+        "id": "articulation",
+        "tier": 16
+    },
+    {
+        "id": "pigeonhole_principle",
+        "tier": 10
+    },
+    {
+        "id": "pst",
+        "tier": 21
+    },
+    {
+        "id": "biconnected_component",
+        "tier": 20
+    },
+    {
+        "id": "euler_phi",
+        "tier": 16
+    },
+    {
+        "id": "planar_graph",
+        "tier": 20
+    },
+    {
+        "id": "point_in_convex_polygon",
+        "tier": 18
+    },
+    {
+        "id": "crt",
+        "tier": 10
+    },
+    {
+        "id": "linked_list",
+        "tier": 9
+    },
+    {
+        "id": "deque_trick",
+        "tier": 18
+    },
+    {
+        "id": "bellman_ford",
+        "tier": 13
+    },
+    {
+        "id": "cactus",
+        "tier": 20
+    },
+    {
+        "id": "splay_tree",
+        "tier": 22
+    },
+    {
+        "id": "extended_euclidean",
+        "tier": 16
+    },
+    {
+        "id": "divide_and_conquer_optimization",
+        "tier": 21
+    },
+    {
+        "id": "mo",
+        "tier": 19
+    },
+    {
+        "id": "functional_graph",
+        "tier": 15
+    },
+    {
+        "id": "pbs",
+        "tier": 21
+    },
+    {
+        "id": "flood_fill",
+        "tier": 10
+    },
+    {
+        "id": "rotating_calipers",
+        "tier": 18
+    },
+    {
+        "id": "euler_characteristic",
+        "tier": 4
+    },
+    {
+        "id": "half_plane_intersection",
+        "tier": 23
+    },
+    {
+        "id": "aho_corasick",
+        "tier": 19
+    },
+    {
+        "id": "regex",
+        "tier": 9
+    },
+    {
+        "id": "multi_segtree",
+        "tier": 18
+    },
+    {
+        "id": "generating_function",
+        "tier": 22
+    },
+    {
+        "id": "dp_deque",
+        "tier": 18
+    },
+    {
+        "id": "slope_trick",
+        "tier": 23
+    },
+    {
+        "id": "pollard_rho",
+        "tier": 21
+    },
+    {
+        "id": "tree_isomorphism",
+        "tier": 19
+    },
+    {
+        "id": "manacher",
+        "tier": 16
+    },
+    {
+        "id": "merge_sort_tree",
+        "tier": 18
+    },
+    {
+        "id": "miller_rabin",
+        "tier": 20
+    },
+    {
+        "id": "mobius_inversion",
+        "tier": 22
+    },
+    {
+        "id": "dp_sum_over_subsets",
+        "tier": 21
+    },
+    {
+        "id": "dp_connection_profile",
+        "tier": 23
+    },
+    {
+        "id": "link_cut_tree",
+        "tier": 25
+    },
+    {
+        "id": "berlekamp_massey",
+        "tier": 21
+    },
+    {
+        "id": "point_in_non_convex_polygon",
+        "tier": 19
+    },
+    {
+        "id": "hall",
+        "tier": 22
+    },
+    {
+        "id": "simulated_annealing",
+        "tier": 11
+    },
+    {
+        "id": "offline_dynamic_connectivity",
+        "tier": 21
+    },
+    {
+        "id": "hungarian",
+        "tier": 21
+    },
+    {
+        "id": "rabin_karp",
+        "tier": 18
+    },
+    {
+        "id": "statistics",
+        "tier": 12
+    },
+    {
+        "id": "numerical_analysis",
+        "tier": 17
+    },
+    {
+        "id": "alien",
+        "tier": 24
+    },
+    {
+        "id": "dp_digit",
+        "tier": 18
+    },
+    {
+        "id": "linear_programming",
+        "tier": 23
+    },
+    {
+        "id": "z",
+        "tier": 18
+    },
+    {
+        "id": "voronoi",
+        "tier": 20
+    },
+    {
+        "id": "circulation",
+        "tier": 22
+    },
+    {
+        "id": "geometric_boolean_operations",
+        "tier": 23
+    },
+    {
+        "id": "lucas",
+        "tier": 17
+    },
+    {
+        "id": "tree_compression",
+        "tier": 21
+    },
+    {
+        "id": "dual_graph",
+        "tier": 23
+    },
+    {
+        "id": "green",
+        "tier": 24
+    },
+    {
+        "id": "duality",
+        "tier": 22
+    },
+    {
+        "id": "general_matching",
+        "tier": 25
+    },
+    {
+        "id": "matroid",
+        "tier": 26
+    },
+    {
+        "id": "cartesian_tree",
+        "tier": 19
+    },
+    {
+        "id": "kitamasa",
+        "tier": 23
+    },
+    {
+        "id": "discrete_log",
+        "tier": 21
+    },
+    {
+        "id": "monotone_queue_optimization",
+        "tier": 24
+    },
+    {
+        "id": "pick",
+        "tier": 13
+    },
+    {
+        "id": "geometry_hyper",
+        "tier": 13
+    },
+    {
+        "id": "tree_decomposition",
+        "tier": 23
+    },
+    {
+        "id": "burnside",
+        "tier": 19
+    },
+    {
+        "id": "suffix_tree",
+        "tier": 24
+    },
+    {
+        "id": "bidirectional_search",
+        "tier": 19
+    },
+    {
+        "id": "min_enclosing_circle",
+        "tier": 20
+    },
+    {
+        "id": "differential_cryptanalysis",
+        "tier": 12
+    },
+    {
+        "id": "dominator_tree",
+        "tier": 22
+    },
+    {
+        "id": "palindrome_tree",
+        "tier": 23
+    },
+    {
+        "id": "polynomial_interpolation",
+        "tier": 22
+    },
+    {
+        "id": "utf8",
+        "tier": 8
+    },
+    {
+        "id": "top_tree",
+        "tier": 28
+    },
+    {
+        "id": "dancing_links",
+        "tier": 23
+    },
+    {
+        "id": "degree_sequence",
+        "tier": 12
+    },
+    {
+        "id": "stable_marriage",
+        "tier": 20
+    },
+    {
+        "id": "lgv",
+        "tier": 23
+    },
+    {
+        "id": "rope",
+        "tier": 20
+    },
+    {
+        "id": "bayes",
+        "tier": 23
+    },
+    {
+        "id": "knuth_x",
+        "tier": 23
+    },
+    {
+        "id": "knuth",
+        "tier": 19
+    },
+    {
+        "id": "delaunay",
+        "tier": 26
+    },
+    {
+        "id": "gradient_descent",
+        "tier": 19
+    },
+    {
+        "id": "hirschberg",
+        "tier": 25
+    },
+    {
+        "id": "chordal_graph",
+        "tier": 24
+    },
+    {
+        "id": "discrete_sqrt",
+        "tier": 22
+    },
+    {
+        "id": "multipoint_evaluation",
+        "tier": 25
+    },
+    {
+        "id": "lte",
+        "tier": 22
+    },
+    {
+        "id": "birthday",
+        "tier": 15
+    },
+    {
+        "id": "floor_sum",
+        "tier": 21
+    },
+    {
+        "id": "directed_mst",
+        "tier": 24
+    },
+    {
+        "id": "stoer_wagner",
+        "tier": 21
+    },
+    {
+        "id": "hackenbush",
+        "tier": 26
+    },
+    {
+        "id": "majority_vote",
+        "tier": 8
+    },
+    {
+        "id": "rb_tree",
+        "tier": 27
+    },
+    {
+        "id": "a_star",
+        "tier": 0
+    },
+    {
+        "id": "discrete_kth_root",
+        "tier": 0
+    }
+]
